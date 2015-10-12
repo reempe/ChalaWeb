@@ -10,5 +10,4 @@
  { "code": "040310", "nombre": "JAQUI"         , "nombre2": "Jaqui"        , "poblacion2000": 2238  , "poblacion2014": 1313  , "area": 424.73   , "densidad": 3.1  , "crec2000_2014": -3.74 },
  { "code": "040311", "nombre": "LOMAS"         , "nombre2": "Lomas"        , "poblacion2000": 1063  , "poblacion2014": 1316  , "area": 452.70   , "densidad": 2.9  , "crec2000_2014":  1.54 },
  { "code": "040312", "nombre": "QUICACHA"      , "nombre2": "Quicacha"     , "poblacion2000": 1911  , "poblacion2014": 1890  , "area": 1048.42  , "densidad": 1.8  , "crec2000_2014": -0.08 },
- { "code": "040313", "nombre": "YAUCA"         , "nombre2": "Yauca"        , "poblacion2000": 1840  , "poblacion2014": 1607  , "area": 556.30   , "densidad": 2.9  , "crec2000_2014": -0.96 },
- { "code": "0403"  , "nombre": "P. CARAV."     , "nombre2": "T. Provincia" , "poblacion2000": 33241 , "poblacion2014": 40373 , "area": 13139.41 , "densidad": 3.1  , "crec2000_2014":  1.40 }]
+ { "code": "040313", "nombre": "YAUCA"         , "nombre2": "Yauca"        , "poblacion2000": 1840  , "poblacion2014": 1607  , "area": 556.30   , "densidad": 2.9  , "crec2000_2014": -0.96 }]
