@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<title>Prueba de las Tablas</title>
+	<link rel="stylesheet" type="text/css" href="estilotablas.css">
+</head>
+
+<body>
+
+<div id="tablaChalaPoblacion01">
+
+	<style type="text/css">
+
+				table {
+				  color: #333;
+				  font-family: sans-serif;
+				  font-size: .9em;
+				  font-weight: 300;
+				  text-align: center;
+				  line-height: 40px;
+				  border-spacing: 0;
+				  border: 1px solid #428bca;
+				  width: 700px;
+				  margin: 20px auto;				  
+				}
+
+				th {
+					font-weight: bold;
+					text-align: center;
+					padding: 0;
+				}
+
+				td {padding: 0;}
+
+				thead tr {
+				  background: #428bca;
+				  color: #fff;
+				  border: none;
+				}
+
+				th:first-child, td:first-child {
+					padding: 0 15px 0 20px;
+					text-align: left;
+				}
+
+				/* thead tr:last-child th {border-bottom: 2px solid #ddd;} */
+
+				tbody tr:hover {background-color: #f0fbff;}
+
+				tbody td {border-bottom: 1px solid #ddd;}
+
+				tbody tr:last-child td {border: none;}
+
+				table thead tr:last-child td {
+					text-align: center;
+					padding: 0 0 0 1em;
+				}
+	</style>
+
+	<table>
+		<thead>
+			<tr>
+				<th rowspan="2">Indicadores de Edades</th>
+				<th colspan="2">Provincia de Caravelí</th>
+				<th colspan="2">Perú</th>
+			</tr>
+			
+			<tr>
+				<td>1993</td>
+				<td>2007</td>
+				<td>1993</td>
+				<td>2007</td>
+			</tr>
+		</thead>
+
+		<tbody>
+			<tr>
+				<td>Edad promedio</td>
+				<td>25.6</td>
+				<td>28.7</td>
+				<td>25.0</td>
+				<td>28.4</td>
+			</tr>
+			
+			<tr>
+				<td>Edad mediana</td>
+				<td>22.0</td>
+				<td>26.0</td>
+				<td>21.0</td>
+				<td>25.0</td>
+			</tr>
+			
+			<tr>
+				<td>Tasa de dependencia</td>
+				<td>68.1%</td>
+				<td>51.1%</td>
+				<td>71.4%</td>
+				<td>58.5%</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+</body>
+</html>
